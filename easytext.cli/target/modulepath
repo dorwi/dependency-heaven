@@ -1,0 +1,2 @@
+-p
+/Users/vidorkanalas/IdeaProjects/java9modularity/easytext.cli/target/classes:/Users/vidorkanalas/.m2/repository/com/dorwi/easytext/easytext.analysis.api/1.0-SNAPSHOT/easytext.analysis.api-1.0-SNAPSHOT.jar:/Users/vidorkanalas/.m2/repository/com/dorwi/easytext/easytext.analysis.kincaid/1.0-SNAPSHOT/easytext.analysis.kincaid-1.0-SNAPSHOT.jar:/Users/vidorkanalas/.m2/repository/com/dorwi/easytext/easytext.analysis.coleman/1.0-SNAPSHOT/easytext.analysis.coleman-1.0-SNAPSHOT.jar
